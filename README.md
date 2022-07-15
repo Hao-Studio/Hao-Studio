@@ -2,7 +2,7 @@
 
 **Select Language: (选择语言：)
 [English](#english) |
-[Chinese \(Simplified\)](#chinese-simplified)**
+[Chinese \(Simplified\, 简体中文)](#chinese-simplified)**
 
 
 ## English
