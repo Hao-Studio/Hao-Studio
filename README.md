@@ -1,4 +1,4 @@
-![Hao Studio Logo](https://hao-studio.github.io/Hao-Studio/Logo.png)
+[![Hao Studio Logo](https://hao-studio.github.io/Hao-Studio/Logo.png)](https://hao-studio.vercel.app)
 # **Hi there👋!   We're Hao Studio**.
 ## **What is it?**
 **[Hao Studio](https://hao-studio.vercel.app) is an Open-Source Software and Hardware Studio across schools. Its members are all junior high school students. It is committed to Desktop & Mobile Application development, Cloud Service deployment, IoT and Embedded Device design, as well as PA background and digital media production business.**
